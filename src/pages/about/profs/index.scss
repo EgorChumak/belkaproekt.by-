@@ -1,0 +1,51 @@
+.menu {
+  width: 20%;
+  float: left;
+}
+h1 {
+  text-align: center;
+}
+.menu ul li {
+  padding-top: 10px;
+  list-style: none;
+
+}
+
+.content {
+  width: 80%;
+  float: left;
+  text-align: justify;
+}
+
+
+.text {
+  padding-bottom: 5px;
+}
+
+
+h2{
+  font-size: 16px;
+  text-align: center;
+}
+
+.color {
+  color:blue;
+}
+
+.prof {
+ 
+  background-image:  url(./../../../images/prof.png);
+  
+  background-repeat: no-repeat;
+  background-position: 200px 3px;
+  background-size: 59px;
+}
+
+
+.profs {
+  background-image:  url(./../../../images/logo.png);
+  
+  background-repeat: no-repeat;
+  background-position: 865px -11px;
+  background-size: 72px;
+}

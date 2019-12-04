@@ -1,0 +1,28 @@
+.header_nav {
+  
+    width: 960px;
+    
+    justify-content: center;
+    margin: 10px auto;
+    
+    > ul {
+      color: white;
+      
+    }
+    > li {
+      padding: 7px 71px 7px 76px;
+      background-color: #936949;
+     
+      
+      border-left: 1px solid #714925;
+      
+      
+    }
+    & .active {
+      background-color: #ff8019;
+    }
+  }
+  
+  a {
+    color: white;
+  }
